@@ -65,6 +65,7 @@ rps.post('/login')
         return response.success(d)
     })
 
+//request with headers['Authorization'] = access token
 rps.get('/admin')
     .memberOf({
        admin: true
