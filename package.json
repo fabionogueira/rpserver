@@ -1,0 +1,21 @@
+{
+  "name": "rpserver",
+  "version": "0.1.0",
+  "description": "Remote Package Server",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "asa"
+  },
+  "author": "Fabio Nogueira <fabio.bacabal@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
