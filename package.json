@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "asa"
+    "url": "https://github.com/fabionogueira/rpserver.git"
   },
   "author": "Fabio Nogueira <fabio.bacabal@gmail.com>",
   "license": "ISC",
